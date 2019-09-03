@@ -13,6 +13,8 @@ This repository utilizes the [PokeAPI](https://pokeapi.co/docs/v2.html#info) wit
 - [re](https://docs.python.org/3/library/re.html)
 
 ## Contents
-1. `part_1_create_db_pokemon.py`: Creates two tables in a sqlite database (`pokemon` and `move`)
-2. `part_2_insert__into_table_pokemon.py`: Reads information from the PokeAPI and writes to the two sqlite database tables defined in part 1.
-3. `part_3_pokemon_find_results.py`: Reads data from sqlite database into dataframes and finds information required (answers questions 1,2, and 3 mentioned above).
+1. [part_1_create_db_pokemon.py](https://github.com/tannavee-watts/pokemon_metrics/blob/readme-update/part_1_create_db_pokemon.py): Creates two tables in a sqlite database (`pokemon` and `move`)
+2. [part_2_insert__into_table_pokemon.py](https://github.com/tannavee-watts/pokemon_metrics/blob/readme-update/part_2_insert__into_table_pokemon.py): Reads information from the PokeAPI and writes to the two sqlite database tables defined in part 1.
+3. [part_3_pokemon_find_results.py](https://github.com/tannavee-watts/pokemon_metrics/blob/readme-update/part_3_pokemon_find_results.py): Reads data from sqlite database into dataframes and finds information required (answers questions 1,2, and 3 mentioned above).
+4. [requirements.txt](https://github.com/tannavee-watts/pokemon_metrics/blob/readme-update/requirements.txt): dependencies to be installed/libraries used in this project
+5. [pokemonDb.db](https://github.com/tannavee-watts/pokemon_metrics/blob/readme-update/pokemonDb.db): sqlite database
