@@ -1,4 +1,4 @@
-# pokemon_metrics
+# pokemon
 
 This repository utilizes the [PokeAPI](https://pokeapi.co/docs/v2.html#info) with the [Pokepy]((https://pokeapi.github.io/pokepy/)) library to answer the following questions:
 
@@ -19,3 +19,4 @@ This repository utilizes the [PokeAPI](https://pokeapi.co/docs/v2.html#info) wit
 4. [requirements.txt](https://github.com/tannavee-watts/pokemon_metrics/blob/master/requirements.txt): dependencies to be installed/libraries used in this project
 5. [pokemonDb.db](https://github.com/tannavee-watts/pokemon_metrics/blob/master/pokemonDb.db): sqlite database
 6. results.txt: Contains the output from running `part_3_pokemon_find_results.py`
+
