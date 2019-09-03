@@ -1,0 +1,4 @@
+pokepy
+sqlite3
+pandas
+re
