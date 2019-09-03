@@ -1,4 +1,4 @@
-# pokemon_metrics
+# pokemon
 
 This repository utilizes the [PokeAPI](https://pokeapi.co/docs/v2.html#info) with the [Pokepy]((https://pokeapi.github.io/pokepy/)) library to answer the following questions:
 
