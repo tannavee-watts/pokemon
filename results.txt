@@ -1,0 +1,48 @@
+1. Average Weight: 294.93333333333334
+
+2. Maximim accuracy by pokemon types:
+
+                   name  accuracy
+type                             
+bug           x-scissor     100.0
+dark              thief     100.0
+dragon          twister     100.0
+electric  thunder-punch     100.0
+fairy             charm     100.0
+fighting     submission     100.0
+fire        will-o-wisp     100.0
+flying      wing-attack     100.0
+ghost       shadow-claw     100.0
+grass        worry-seed     100.0
+ground        mud-sport     100.0
+ice                mist     100.0
+normal             yawn     100.0
+poison        venoshock     100.0
+psychic    zen-headbutt     100.0
+rock         smack-down     100.0
+steel        steel-wing     100.0
+water          withdraw     100.0
+
+3. Count the number of moves by Pokemon and order from greatest to least
+    id        name  height  ...         types                                         moves_list num_moves
+5    6   charizard      17  ...   flying,fire  [mega-punch, fire-punch, thunder-punch, scratc...       108
+3    4  charmander       6  ...          fire  [mega-punch, fire-punch, thunder-punch, scratc...        93
+8    9   blastoise      16  ...         water  [mega-punch, ice-punch, mega-kick, headbutt, t...        93
+6    7    squirtle       5  ...         water  [mega-punch, ice-punch, mega-kick, headbutt, t...        91
+4    5  charmeleon      11  ...          fire  [mega-punch, fire-punch, thunder-punch, scratc...        84
+0    1   bulbasaur       7  ...  poison,grass  [razor-wind, swords-dance, cut, bind, vine-whi...        78
+2    3    venusaur      20  ...  poison,grass  [swords-dance, cut, bind, vine-whip, headbutt,...        77
+11  12  butterfree      11  ...    flying,bug  [razor-wind, gust, whirlwind, take-down, doubl...        77
+7    8   wartortle      10  ...         water  [mega-punch, ice-punch, mega-kick, headbutt, t...        76
+14  15    beedrill      10  ...    poison,bug  [swords-dance, cut, fury-attack, take-down, do...        75
+1    2     ivysaur      10  ...  poison,grass  [swords-dance, cut, bind, vine-whip, headbutt,...        66
+9   10    caterpie       3  ...           bug  [tackle, string-shot, snore, bug-bite, electro...         5
+10  11     metapod       7  ...           bug  [string-shot, harden, iron-defense, bug-bite, ...         5
+13  14      kakuna       6  ...    poison,bug  [string-shot, harden, iron-defense, bug-bite, ...         5
+12  13      weedle       3  ...    poison,bug  [poison-sting, string-shot, bug-bite, electroweb]         4
+
+[15 rows x 8 columns]
+
+
+Pokemon with most moves: charizard 
+Number of moves:  108

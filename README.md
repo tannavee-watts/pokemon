@@ -18,3 +18,5 @@ This repository utilizes the [PokeAPI](https://pokeapi.co/docs/v2.html#info) wit
 3. [part_3_pokemon_find_results.py](https://github.com/tannavee-watts/pokemon_metrics/blob/master/part_3_pokemon_find_results.py): Reads data from sqlite database into dataframes and finds information required (answers questions 1,2, and 3 mentioned above).
 4. [requirements.txt](https://github.com/tannavee-watts/pokemon_metrics/blob/master/requirements.txt): dependencies to be installed/libraries used in this project
 5. [pokemonDb.db](https://github.com/tannavee-watts/pokemon_metrics/blob/master/pokemonDb.db): sqlite database
+6. results.txt: Contains the output from running `part_3_pokemon_find_results.py`
+
