@@ -1,0 +1,19 @@
+sqlite> .schema pokemon
+CREATE TABLE POKEMON
+             (
+                [id] INTEGER PRIMARY KEY,
+                [name] text,
+                [height] integer,
+                [weight] integer,
+                [moves] text,
+                [types] text
+             );
+
+
+CREATE TABLE MOVE
+             (
+                [id] integer PRIMARY KEY,
+                [name] text,
+                [accuracy] integer,
+                [type] text
+             );
